@@ -72,4 +72,37 @@ main{
     position: relative;
     left: 2rem;
     bottom: 7rem;
+    font-size: .9rem;
+}
+
+.fact {
+    font-size: .9rem;
+}
+
+.attack {
+    color: red;
+}
+
+.health {
+    color: green;
+}
+
+.special {
+    color: blue;
+}
+
+.goku-moveset li {
+    font-size: .7rem;
+}
+
+.luffy-moveset li {
+    font-size: .7rem;
+}
+
+.sailor-moveset li {
+    font-size: .7rem;
+}
+
+.azula-moveset li {
+    font-size: .7rem;
 }
